@@ -1,5 +1,5 @@
 function saludar(){
-	console.log("Adiós")
+	console.log("Adiós mundo")
 }
 
 saludar();
